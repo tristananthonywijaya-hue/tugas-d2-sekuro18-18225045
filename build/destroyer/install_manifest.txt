@@ -1,0 +1,15 @@
+/home/tristan/tugas-d2-sekuro18-18225045/install/destroyer/share/ament_index/resource_index/package_run_dependencies/destroyer
+/home/tristan/tugas-d2-sekuro18-18225045/install/destroyer/share/ament_index/resource_index/parent_prefix_path/destroyer
+/home/tristan/tugas-d2-sekuro18-18225045/install/destroyer/share/destroyer/environment/ament_prefix_path.sh
+/home/tristan/tugas-d2-sekuro18-18225045/install/destroyer/share/destroyer/environment/ament_prefix_path.dsv
+/home/tristan/tugas-d2-sekuro18-18225045/install/destroyer/share/destroyer/environment/path.sh
+/home/tristan/tugas-d2-sekuro18-18225045/install/destroyer/share/destroyer/environment/path.dsv
+/home/tristan/tugas-d2-sekuro18-18225045/install/destroyer/share/destroyer/local_setup.bash
+/home/tristan/tugas-d2-sekuro18-18225045/install/destroyer/share/destroyer/local_setup.sh
+/home/tristan/tugas-d2-sekuro18-18225045/install/destroyer/share/destroyer/local_setup.zsh
+/home/tristan/tugas-d2-sekuro18-18225045/install/destroyer/share/destroyer/local_setup.dsv
+/home/tristan/tugas-d2-sekuro18-18225045/install/destroyer/share/destroyer/package.dsv
+/home/tristan/tugas-d2-sekuro18-18225045/install/destroyer/share/ament_index/resource_index/packages/destroyer
+/home/tristan/tugas-d2-sekuro18-18225045/install/destroyer/share/destroyer/cmake/destroyerConfig.cmake
+/home/tristan/tugas-d2-sekuro18-18225045/install/destroyer/share/destroyer/cmake/destroyerConfig-version.cmake
+/home/tristan/tugas-d2-sekuro18-18225045/install/destroyer/share/destroyer/package.xml

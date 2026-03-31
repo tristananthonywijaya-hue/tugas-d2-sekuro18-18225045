@@ -1,0 +1,8 @@
+source;share/destroyer/hook/cmake_prefix_path.ps1
+source;share/destroyer/hook/cmake_prefix_path.dsv
+source;share/destroyer/hook/cmake_prefix_path.sh
+source;share/destroyer/local_setup.bash
+source;share/destroyer/local_setup.dsv
+source;share/destroyer/local_setup.ps1
+source;share/destroyer/local_setup.sh
+source;share/destroyer/local_setup.zsh

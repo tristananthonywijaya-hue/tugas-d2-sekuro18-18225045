@@ -1,0 +1,9 @@
+/home/tristan/tugas-d2-sekuro18-18225045/build/destroyer/CMakeFiles/uninstall.dir
+/home/tristan/tugas-d2-sekuro18-18225045/build/destroyer/CMakeFiles/destroyer_uninstall.dir
+/home/tristan/tugas-d2-sekuro18-18225045/build/destroyer/CMakeFiles/test.dir
+/home/tristan/tugas-d2-sekuro18-18225045/build/destroyer/CMakeFiles/edit_cache.dir
+/home/tristan/tugas-d2-sekuro18-18225045/build/destroyer/CMakeFiles/rebuild_cache.dir
+/home/tristan/tugas-d2-sekuro18-18225045/build/destroyer/CMakeFiles/list_install_components.dir
+/home/tristan/tugas-d2-sekuro18-18225045/build/destroyer/CMakeFiles/install.dir
+/home/tristan/tugas-d2-sekuro18-18225045/build/destroyer/CMakeFiles/install/local.dir
+/home/tristan/tugas-d2-sekuro18-18225045/build/destroyer/CMakeFiles/install/strip.dir
