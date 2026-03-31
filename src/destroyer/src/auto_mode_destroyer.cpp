@@ -17,13 +17,12 @@ private:
     void timer_callback() {
         auto msg = geometry_msgs::msg::Twist();
         
-        // Random generator untuk arah
         std::random_device rd;
         std::mt19937 gen(rd());
         std::uniform_real_distribution<> dis(-1.0, 1.0);
 
-        msg.linear.x = 5.0;            // Kecepatan tetap 5m/s
-        msg.angular.z = dis(gen);      // Rotasi acak antara -1 dan 1 rad/s
+        msg.linear.x = 5.0;          
+        msg.angular.z = dis(gen);     
 
         publisher_->publish(msg);
     }
